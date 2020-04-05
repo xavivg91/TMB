@@ -1,14 +1,12 @@
 Package: TMB
-Title: What the Package Does (One Line, Title Case)
+Title: R package to retrieve data related to the bus and metro service in Barcelona
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Xavier",
+           family = "Vivancos",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: What license it uses
+           email = "x.vivancos91@hotmail.com")
+License: MIT
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.0.2
