@@ -57,9 +57,9 @@ metro.stations(app_id, app_key, line = c(1, 2, 3, 4, 5, 11, 91,
 
 ## How it works
 
-First, you have to register on the [TMB API portal](https://developer.tmb.cat/docs/getting-started) and create an application to obtain your credentials `app_id` and `app_key`. You will need these codes to use the TMB package functions. 
+First, you have to register on the TMB API portal and create an application to obtain your credentials `app_id` and `app_key`, you will need these codes to use the TMB package functions. You can check out more information about this quick registration [here](https://developer.tmb.cat/docs/getting-started). You will find the credentials inside the created application. 
 
-Let’s say we want to obtain a data set containing the metro stations corresponding to the L2 line. 
+Once we have our credentials, let’s say we want to obtain a data set containing the metro stations corresponding to the L2 line. Just grab your credentials and use them as the `metro.stations()` function arguments. You also have to specify the line.
 
 ```R
 # Metro stations corresponding to the L2 line
