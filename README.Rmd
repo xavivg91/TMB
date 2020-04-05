@@ -62,6 +62,9 @@ First, you have to register on the TMB API portal and create an application to o
 Once we have our credentials, let’s say we want to obtain a data set containing the metro stations corresponding to the L2 line. Just grab your credentials and use them as the `metro.stations()` function arguments. You also have to specify the line.
 
 ```R
+# Load library
+library(TMB)
+
 # Metro stations corresponding to the L2 line
 metro.stations(app_id, app_key, line = 2)
 ```  
