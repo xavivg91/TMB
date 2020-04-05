@@ -9,7 +9,7 @@
 
 ## Introduction 
 
-[TMB](https://www.tmb.cat/en/home) (Transports Metropolitans de Barcelona) is the main public transport operator in Catalonia and a benchmark public mobility company in Europe and the world.
+[TMB](https://www.tmb.cat/en/home) (_Transports Metropolitans de Barcelona_) is the main public transport operator in Catalonia and a benchmark public mobility company in Europe and the world.
 
 ## Overview
 
@@ -25,7 +25,7 @@ devtools::install_github("xavivg91/TMB")
 
 `library(TMB)` will load the following core functions:
 
-* `bus.stops()`, for the bus stops and lines in Barcelona. You can extract information like routes, geographical data (including latitude and longitude), distance between bus stops, etc.
+* `bus.stops()`, for the bus stops and lines in Barcelona.
 
 ```R
 # Without the line argument, the function retrieves data from all bus stops
