@@ -30,10 +30,10 @@ bus.stops(app_id, app_key,
 }
 \description{
 The \code{bus.stops()} function opens a connection
-to the \href{https://www.tmb.cat/en/home}{TMB} API to retrieve data related
-to the bus stops and lines in Barcelona. You can extract information like:
+to the \href{https://developer.tmb.cat/}{TMB API} to retrieve data related
+to the bus stops and lines in Barcelona. You can extract information like
 routes, geographical data (including latitude and longitude),
-distance between bus stops, origin and destination for each line, etc.
+distance between bus stops, etc.
 }
 \details{
 \itemize{

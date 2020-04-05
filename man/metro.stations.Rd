@@ -22,7 +22,7 @@ metro.stations(app_id, app_key,
 }
 \description{
 The \code{metro.stations()} function opens a connection
-to the \href{https://www.tmb.cat/en/home}{TMB} API to retrieve data related
+to the \href{https://developer.tmb.cat/}{TMB API} to retrieve data related
 to the metro stations and lines in Barcelona.
 }
 \details{

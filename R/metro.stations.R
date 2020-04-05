@@ -1,6 +1,6 @@
 #' Get data from the metro service in Barcelona
 #' @description The \code{metro.stations()} function opens a connection
-#' to the \href{https://www.tmb.cat/en/home}{TMB} API to retrieve data related
+#' to the \href{https://developer.tmb.cat/}{TMB API} to retrieve data related
 #' to the metro stations and lines in Barcelona.
 #'
 #'
