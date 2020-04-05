@@ -57,23 +57,17 @@ metro.stations(app_id, app_key, line = c(1, 2, 3, 4, 5, 11, 91,
 
 ## How it works
 
-Let’s say we want to obtain a data set related to sports. First, we need to execute the `dataselist()` function to see all the
-sports data sets available on the Open Data BCN portal.
+First, you have to register on the [TMB API portal](https://developer.tmb.cat/docs/getting-started) and create an application to obtain your credentials `app_id` and `app_key`. You will need these codes to use the TMB package functions. 
+
+Let’s say we want to obtain a data set containing the metro stations corresponding to the L2 line. 
 
 ```R
-# List of sports data sets available on the portal
-datasets <- datasetlist(subtopic = "Sport")
-```
-Once executed, check out the saved data frame and copy the resource ID of the CSV you want to consult (inside the ID column). 
-Then, paste the ID as an input argument of the `get.csv()` function. 
-
-```R
-# Save the CSV data set in your RStudio environment 
-sportdataset <- get.csv(id = "cd8d0d2b-b97a-4aba-b1c8-e25696379a58")
-```
+# Metro stations corresponding to the L2 line
+metro.stations(app_id, app_key, line = 2)
+```  
 
 Easy peasy, right?
 
 ## Data Ownership
 
-All extracted baRcelona data belong to the [Open Data BCN portal](https://opendata-ajuntament.barcelona.cat/en/node).
+All extracted data belong to the [TMB API portal](https://developer.tmb.cat/).
