@@ -9,11 +9,11 @@
 
 ## Introduction 
 
-\href{https://www.tmb.cat/en/home}{TMB} (Transports Metropolitans de Barcelona) is the main public transport operator in Catalonia and a benchmark public mobility company in Europe and the world.
+[TMB](https://www.tmb.cat/en/home) (Transports Metropolitans de Barcelona) is the main public transport operator in Catalonia and a benchmark public mobility company in Europe and the world.
 
 ## Overview
 
-The TMB package opens a connection to the \href{https://developer.tmb.cat/}{TMB API} to retrieve data related to the bus and metro service in Barcelona.
+The TMB package opens a connection to the [TMB API](https://developer.tmb.cat/) to retrieve data related to the bus and metro service in Barcelona.
 
 ## Installation
 
