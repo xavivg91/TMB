@@ -1,4 +1,4 @@
-# TMB package
+# TMB package <img src='logo/logo.png' align="right" height="139" /></a>
 
 <!-- badges: start -->
 [![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
