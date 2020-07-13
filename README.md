@@ -66,7 +66,9 @@ Once we have our credentials, let’s say we want to obtain a data set containin
 library(TMB)
 
 # Metro stations corresponding to the L2 line
-metro.stations(app_id = "Copy and paste your app_id here", app_key = "Copy and paste your app_key here", line = 2)
+metro.stations(app_id = "Copy and paste your app_id here", 
+               app_key = "Copy and paste your app_key here",
+               line = 2)
 ```  
 
 Easy peasy, right?
