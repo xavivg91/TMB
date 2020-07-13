@@ -51,8 +51,7 @@ bus.stops(app_id, app_key, line = c(6, 7, 11, 13, 19, 21, 22, 23, 24, 27, 33, 34
 metro.stations(app_id, app_key)
 
 # Metro stations corresponding to the specified line
-metro.stations(app_id, app_key, line = c(1, 2, 3, 4, 5, 11, 91,
-                                         94, 99, 101, 104))
+metro.stations(app_id, app_key, line = c(1, 2, 3, 4, 5, 11, 91, 94, 99, 101, 104))
 ```  
 
 ## How it works
