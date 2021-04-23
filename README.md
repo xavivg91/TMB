@@ -4,7 +4,9 @@
 [![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/xavivg91/TMB/issues/new)
-[![HitCount](http://hits.dwyl.com/xavivg91/TMB.svg)](http://hits.dwyl.com/xavivg91/TMB)
+![](https://visitor-badge.glitch.me/badge?page_id=github.com/xavivg91/TMB)
+
+<!-- [![HitCount](http://hits.dwyl.com/xavivg91/TMB.svg)](http://hits.dwyl.com/xavivg91/TMB)  -->
 
 [![GitHub Xavi](https://img.shields.io/github/followers/xavivg91?label=follow&style=social)](https://github.com/xavivg91/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Xavier91vg.svg?style=social)](https://twitter.com/Xavier91vg)
